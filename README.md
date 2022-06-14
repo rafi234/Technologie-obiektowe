@@ -3,17 +3,17 @@
 ## lab1
 This program download information about current exchanges rate from internet and allows you to exchange any currency you want.
 
-##lab2
+## lab2
 This program allows you to do some operations on vectors.
 
-##lab4
+## lab4
 This program is a disease contagion simulation made using JavaFX as it's GUI.
 
-##lab5
+## lab5
 As it's name says it is a fire brigade simulation.
 
-##lab6
+## lab6
 This aplication was made to check people identity.
 
-##project
+## project
 This is a magazine manager made using JavaFX 
